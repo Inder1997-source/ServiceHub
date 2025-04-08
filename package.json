@@ -1,7 +1,9 @@
 {
   "name": "sevahub-backend",
-  "dependencies": {
-    "express": "^4.0.0",
-    "mongoose": "^6.0.0"
-  }
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
 }
